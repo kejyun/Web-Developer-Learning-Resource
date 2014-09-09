@@ -11,6 +11,9 @@
 * [Framework7 - Full Featured HTML Framework For Building iOS7 Apps](http://www.idangero.us/framework7/)
 
 
+## 其他
+* [Bootstrap Magic : Twitter bootstrap themes generator](http://pikock.github.io/bootstrap-magic/)
+
 
 ## 參考設計
 
