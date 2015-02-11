@@ -6,6 +6,6 @@ Blog : http://blog.kejyun.com
 
 Facebook : http://fb.me/kejyunTaiwan
 
-GitBook : http://web-developer-learning-resource.kejyun.com/
+GitBook : http://kejyuntw.gitbooks.io/web-developer-learning-resource/
 
 GitHub : https://github.com/kejyun/Web-Developer-Learning-Resource
