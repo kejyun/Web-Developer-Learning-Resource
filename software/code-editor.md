@@ -1,7 +1,16 @@
 # 編輯器
 
 ## 桌機
+
+### 免費
 * [Sublime Text 3](http://www.sublimetext.com/3)
+* [Atom](https://atom.io/)
+* [NetBeans](https://netbeans.org/)
+* [Eclipse](https://eclipse.org/downloads/)
+* [Notepad ++](http://notepad-plus-plus.org/)
+
+### 付費
+* [PHP IDE :: JetBrains PhpStorm](https://www.jetbrains.com/phpstorm/)
 
 ## 線上
 

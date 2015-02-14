@@ -3,6 +3,7 @@
 ## Framework
 
 * [Bootstrap](http://getbootstrap.com/)
+* [UIkit](http://getuikit.com/)
 * [Foundation | The Most Advanced Responsive Front-end Framework from ZURB](http://foundation.zurb.com/)
 * [Pure](http://purecss.io/)
 
@@ -10,6 +11,8 @@
 
 * [Framework7 - Full Featured HTML Framework For Building iOS7 Apps](http://www.idangero.us/framework7/)
 
+## Icon & Font
+* [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
 
 ## 其他
 * [Bootstrap Magic : Twitter bootstrap themes generator](http://pikock.github.io/bootstrap-magic/)

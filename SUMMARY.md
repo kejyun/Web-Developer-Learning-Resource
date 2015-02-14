@@ -15,6 +15,7 @@
    * [學習資源](git/git-learning-resource.md)
 * [PHP](php/README.md)
    * [學習資源](php/php-learning-resource.md)
+   * [Framework](php/php-framework.md)
 * [資料庫](database/README.md)
    * [MySQL](database/mysql.md)
 * [圖片](photo/README.md)
@@ -31,6 +32,6 @@
    * [Mockup](software/software-mockup.md)
 * [圖表分析](chart/README.md)
 * [文件管理](document-management/README.md)
-* [學習資源](learning-resource/README.md)
 * [正規表示式](regular-expressions/README.md)
-
+* [加解密](encryption-decryption/README.md)
+* [學習資源](learning-resource/README.md)
