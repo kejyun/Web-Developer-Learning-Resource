@@ -19,3 +19,6 @@
 
 ## 效能
 * [jsPerf — JavaScript performance playground](http://jsperf.com/)
+
+## 函式庫
+* [JSDB - The Database of JavaScript Libraries](http://www.javascripting.com/)
