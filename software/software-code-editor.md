@@ -24,6 +24,8 @@
 
 ### 後端
 * [codepad - PHP](http://codepad.viper-7.com/)
+* [PHP Fiddle](http://phpfiddle.org/)
+* [RUBY Fiddle](http://rubyfiddle.com/)
 
 ### 文件
 * [Hackpad](https://hackpad.com/)

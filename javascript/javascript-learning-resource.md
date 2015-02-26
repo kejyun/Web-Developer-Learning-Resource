@@ -3,6 +3,7 @@
 
 ## 影片
 * [JavaScript Foundations Course](http://teamtreehouse.com/library/javascript-foundations)
+* [30 Days to Learn jQuery - Tuts+ Course](http://code.tutsplus.com/courses/30-days-to-learn-jquery)
 
 ## 文章
 * [JS: The Right Way](http://jstherightway.org/)
