@@ -14,3 +14,8 @@
 
 ## 文件
 * [Zeal - offline API documentation browser](http://zealdocs.org/)
+
+## 社群
+* [JavaScript.tw - Facebook](https://www.facebook.com/groups/javascript.tw/)
+* [ReactJS.tw - Facebook](https://www.facebook.com/groups/reactjs.tw/)
+* [AngularJS.tw - Facebook](https://www.facebook.com/groups/augularjs.tw/)
