@@ -1,8 +1,11 @@
 {
-  "plugins": ["disqus"],
+  "plugins": ["disqus","ga"],
   "pluginsConfig": {
     "disqus": {
       "shortName": "web-developer-learning-resource"
+    },
+    "ga": {
+      "token": "UA-31063691-9"
     }
   }
 }
