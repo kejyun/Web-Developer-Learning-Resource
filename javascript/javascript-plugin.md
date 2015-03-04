@@ -4,6 +4,8 @@
 * [jQuery](http://jquery.com/)
 * [jQuery UI](http://jqueryui.com/)
 
+## 圖表繪圖
+* [three.js - Javascript 3D library](http://threejs.org/)
 
 ## 檢測
 * [Modernizer](http://modernizr.com/)
