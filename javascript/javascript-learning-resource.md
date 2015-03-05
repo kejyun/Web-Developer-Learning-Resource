@@ -19,3 +19,7 @@
 * [JavaScript.tw - Facebook](https://www.facebook.com/groups/javascript.tw/)
 * [ReactJS.tw - Facebook](https://www.facebook.com/groups/reactjs.tw/)
 * [AngularJS.tw - Facebook](https://www.facebook.com/groups/augularjs.tw/)
+* [D3js.tw - Facebook](https://www.facebook.com/groups/d3js.tw/)
+* [Front-End Developers Taiwan - Facebook](https://www.facebook.com/groups/f2e.tw/)
+* [Front-End 台灣](http://www2.f2e.tw/)
+* [node.js台灣 - Facebook](https://www.facebook.com/groups/node.js.tw/)
