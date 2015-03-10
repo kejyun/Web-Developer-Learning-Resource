@@ -45,6 +45,7 @@
   * [條碼](software/software-barcode-qrcode.md)
 * [服務](service/service-README.md)
   * [主機](service/service-hosting.md)
+  * [Email](service/service-email.md)
   * [圖片](service/service-photo.md)
   * [文書](service/service-office.md)
   * [分析](service/service-analysis.md)
