@@ -8,6 +8,7 @@
   * [Framework](css/css-framework.md)
   * [套件](css/css-plugin.md)
   * [範本](css/css-example.md)
+  * [學習資源](css/css-learning-resource.md)
 * [JavaScript](javascript/javascript-README.md)
   * [Framework](javascript/framework/javascript-framework-README.md)
     * [AngularJS](javascript/framework/javascript-framework-angularjs.md)
