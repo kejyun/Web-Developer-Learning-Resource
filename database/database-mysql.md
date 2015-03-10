@@ -7,3 +7,6 @@
 * [Database Design and Normalization](https://www.youtube.com/watch?v=F5AlxQvya5A&list=PL3B743E17BCF7B958)
 * [MySQL Complete Series!](https://www.youtube.com/watch?v=6pbxQQG25Jw&list=PL_c9BZzLwBRKHaa-qY7N-bmZYLPx3RYVB)
 * [MySQL Data Types](https://www.youtube.com/watch?v=krx-w9icrkU&list=PL405B31DD586979DE)
+
+## 文件
+* [MySQL Cheat Sheet | OverAPI.com](http://overapi.com/mysql/)

@@ -49,6 +49,8 @@
   * [圖片](service/service-photo.md)
   * [文書](service/service-office.md)
   * [分析](service/service-analysis.md)
+* [Linux](linux/linux-README.md)
+  * [文件](linux/linux-document-README.md)
 * [圖表分析](chart/chart-README.md)
 * [文件管理](document-management/document-management-README.md)
 * [正規表示式](regular-expressions/regular-expressions-README.md)
@@ -57,5 +59,7 @@
   * [討論社群](learning-resource/learning-resource-forum.md)
   * [影片](learning-resource/learning-resource-video.md)
   * [書籍](learning-resource/learning-resource-book.md)
+  * [文件](learning-resource/learning-resource-document.md)
   * [雜項](learning-resource/learning-resource-miscellaneous.md)
   * [文章](learning-resource/learning-resource-article.md)
+
