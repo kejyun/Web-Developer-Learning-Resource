@@ -1,4 +1,3 @@
 # 字型
 
-## 免費字型
-* [Google Fonts](http://www.google.com/fonts/)
+這裡會介紹一些字形的相關資源
