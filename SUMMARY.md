@@ -63,7 +63,7 @@
   * [討論社群](learning-resource/learning-resource-forum.md)
   * [影片](learning-resource/learning-resource-video.md)
   * [書籍](learning-resource/learning-resource-book.md)
+  * [網站](learning-resource/learning-resource-websites.md)
   * [文件](learning-resource/learning-resource-document.md)
   * [雜項](learning-resource/learning-resource-miscellaneous.md)
   * [文章](learning-resource/learning-resource-article.md)
-
