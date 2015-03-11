@@ -42,6 +42,7 @@
   * [文件](software/software-document.md)
   * [Mockup](software/software-mockup.md)
   * [伺服器](software/software-server-sevice.md)
+  * [繪圖](software/software-painting.md)
   * [條碼](software/software-barcode-qrcode.md)
 * [服務](service/service-README.md)
   * [主機](service/service-hosting.md)
