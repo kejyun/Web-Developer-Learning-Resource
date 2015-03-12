@@ -37,6 +37,9 @@
 * [Responsive Web Design](responsive-web-design/README.md)
   * [工具](responsive-web-design/rwd-tool.md)
 * [字型](font/font-README.md)
+   * [中文字形](font/font-chinese.md)
+   * [英文字型](font/font-english.md)
+   * [其他字形](font/font-others.md)
 * [軟體工具](software/software-README.md)
   * [編輯器](software/software-code-editor.md)
   * [文件](software/software-document.md)
@@ -61,7 +64,7 @@
   * [討論社群](learning-resource/learning-resource-forum.md)
   * [影片](learning-resource/learning-resource-video.md)
   * [書籍](learning-resource/learning-resource-book.md)
+  * [網站](learning-resource/learning-resource-websites.md)
   * [文件](learning-resource/learning-resource-document.md)
   * [雜項](learning-resource/learning-resource-miscellaneous.md)
   * [文章](learning-resource/learning-resource-article.md)
-
