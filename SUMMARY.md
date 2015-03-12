@@ -50,6 +50,7 @@
   * [圖片](service/service-photo.md)
   * [文書](service/service-office.md)
   * [分析](service/service-analysis.md)
+  * [圖表](service/service-chart.md)
 * [Linux](linux/linux-README.md)
   * [文件](linux/linux-document-README.md)
 * [圖表分析](chart/chart-README.md)
