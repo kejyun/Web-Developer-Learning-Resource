@@ -7,6 +7,7 @@
 
 ## 文章
 * [JS: The Right Way](http://jstherightway.org/)
+* [Frontend Tools](http://fredsarmento.me/frontend-tools/)
 
 ## 設計模式
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)

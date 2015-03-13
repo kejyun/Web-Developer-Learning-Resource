@@ -4,4 +4,5 @@
 * [Code School](https://www.codeschool.com/)
 * [Treehouse](http://teamtreehouse.com/)
 * [Tuts+](http://tutsplus.com/)
-* [Lynda](http://fredsarmento.me/frontend-tools/)
+* [Lynda](http://www.lynda.com/)
+
