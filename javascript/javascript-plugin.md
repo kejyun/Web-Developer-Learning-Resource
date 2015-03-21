@@ -1,13 +1,5 @@
 # Javascript 套件
 
-## HTML DOM 文件控制
-* [jQuery](http://jquery.com/)
-* [jQuery UI](http://jqueryui.com/)
-
-## 圖表繪圖
-* [D3.js - Data-Driven Documents](http://d3js.org/)
-* [three.js - Javascript 3D library](http://threejs.org/)
-
 ## 檢測
 * [Modernizer](http://modernizr.com/)
 
@@ -39,9 +31,6 @@
 
 ## 效能
 * [jsPerf — JavaScript performance playground](http://jsperf.com/)
-
-## 函式庫
-* [JSDB - The Database of JavaScript Libraries](http://www.javascripting.com/)
 
 ## 除錯
 * [Console.Re | Try Remote Javascript Development Console](http://console.re/try)
