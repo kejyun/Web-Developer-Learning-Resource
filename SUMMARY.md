@@ -13,6 +13,7 @@
   * [Framework](javascript/framework/javascript-framework-README.md)
     * [AngularJS](javascript/framework/javascript-framework-angularjs.md)
     * [React](javascript/framework/javascript-framework-react.md)
+  * [函式庫](javascript/javascript-library.md)
   * [套件](javascript/javascript-plugin.md)
   * [學習資源](javascript/javascript-learning-resource.md)
 * [Git](git/git-README.md)
