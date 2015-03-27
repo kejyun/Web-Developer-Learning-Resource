@@ -7,3 +7,6 @@
 
 ## 社群
 * [ReactJS.tw - Facebook](https://www.facebook.com/groups/reactjs.tw/)
+
+## 介紹
+* [React.js Conf 2015 Keynote - Introducing React Native](https://code.facebook.com/videos/786462671439502/react-js-conf-2015-keynote-introducing-react-native-/)
