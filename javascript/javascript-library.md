@@ -3,6 +3,8 @@
 ## 圖表繪圖
 * [D3.js - Data-Driven Documents](http://d3js.org/)
 * [three.js - Javascript 3D library](http://threejs.org/)
+* [JavaScript Charts and Maps | amCharts](http://www.amcharts.com/)
+
 
 # 介面
 * [vue.js](http://vuejs.org/)
