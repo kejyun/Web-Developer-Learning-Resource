@@ -12,6 +12,7 @@
 ## 設計模式
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/blob/master/README.md)
 
 ## 文件
 * [Zeal - offline API documentation browser](http://zealdocs.org/)
