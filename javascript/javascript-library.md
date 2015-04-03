@@ -4,6 +4,9 @@
 * [D3.js - Data-Driven Documents](http://d3js.org/)
 * [three.js - Javascript 3D library](http://threejs.org/)
 
+## 影片
+* [Video.js](http://www.videojs.com/)
+
 # 介面
 * [vue.js](http://vuejs.org/)
 
