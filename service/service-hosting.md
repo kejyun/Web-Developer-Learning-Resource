@@ -5,6 +5,7 @@
 * [Linode](https://www.linode.com/)
 * [Heroku](https://www.heroku.com/)
 * [Vultr](https://www.vultr.com/)
+* [OpenShift](https://www.openshift.com/)
 
 
 ## DNS

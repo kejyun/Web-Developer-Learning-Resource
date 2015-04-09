@@ -10,3 +10,6 @@
 
 ## 介紹
 * [React.js Conf 2015 Keynote - Introducing React Native](https://code.facebook.com/videos/786462671439502/react-js-conf-2015-keynote-introducing-react-native-/)
+
+## 文件
+* [Awesome React](https://github.com/enaqx/awesome-react)
