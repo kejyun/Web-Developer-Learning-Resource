@@ -6,6 +6,7 @@
 * [30 Days to Learn jQuery - Tuts+ Course](http://code.tutsplus.com/courses/30-days-to-learn-jquery)
 * [Learn JavaScript in 12 Minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
 * [Javascript Fundamentals](https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V&index=1)
+* [JavaScript Design Patterns Organizing code in a disorganized world](https://www.udacity.com/course/ud989)
 
 ## 文章
 * [JS: The Right Way](http://jstherightway.org/)
@@ -20,6 +21,9 @@
 * [Zeal - offline API documentation browser](http://zealdocs.org/)
 * [Javascript Cheat Sheet | OverAPI.com](http://overapi.com/javascript/)
 * [jQuery Cheat Sheet | OverAPI.com](http://overapi.com/jquery/)
+
+## 練習
+* [JavaScript | Codecademy](http://www.codecademy.com/en/tracks/javascript/)
 
 ## 社群
 * [JavaScript.tw - Facebook](https://www.facebook.com/groups/javascript.tw/)
