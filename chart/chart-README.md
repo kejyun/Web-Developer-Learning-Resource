@@ -9,17 +9,18 @@
 * [three.js - Javascript 3D library](http://threejs.org/)
 * [amCharts - JavaScript Charts and Maps](http://www.amcharts.com/)
 
+
 # 繪圖
 * [p5.js](http://p5js.org/)
+
 
 # 地圖
 
 * [MarkerClusterer v3](http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/examples/advanced_example.html)
 
 
-# 綜合
-
-* [D3.js - Data-Driven Documents](http://d3js.org/)
+# 影片
+* [Data Visualization and D3.js Course - Udacity](https://www.udacity.com/course/ud507)
 
 # 彙整整理
 * [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/)
