@@ -4,6 +4,8 @@
 ## 影片
 * [JavaScript Foundations Course](http://teamtreehouse.com/library/javascript-foundations)
 * [30 Days to Learn jQuery - Tuts+ Course](http://code.tutsplus.com/courses/30-days-to-learn-jquery)
+* [Learn JavaScript in 12 Minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
+* [Javascript Fundamentals](https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V&index=1)
 
 ## 文章
 * [JS: The Right Way](http://jstherightway.org/)
@@ -27,4 +29,3 @@
 * [Front-End Developers Taiwan - Facebook](https://www.facebook.com/groups/f2e.tw/)
 * [Front-End 台灣](http://www2.f2e.tw/)
 * [node.js台灣 - Facebook](https://www.facebook.com/groups/node.js.tw/)
-

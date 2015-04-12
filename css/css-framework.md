@@ -20,6 +20,8 @@
 ## 其他
 * [Bootstrap Magic : Twitter bootstrap themes generator](http://pikock.github.io/bootstrap-magic/)
 
+## 影片
+* [Bootstrap 3 Responsive Tech Site](https://www.youtube.com/playlist?list=PLMvLDJ7usmZB-Mu4kNB-Qtr_1serQjfti)
 
 ## 參考設計
 * [Start Bootstrap - Free Bootstrap Themes and Templates](http://startbootstrap.com/)

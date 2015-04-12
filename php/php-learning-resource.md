@@ -1,5 +1,8 @@
 # PHP 學習資源
 
+## 影片
+* [Learn PHP in 15 minutes](https://www.youtube.com/watch?v=ZdP0KM49IVk)
+
 ## 設計模式
 * [PHP: The Right Way](http://www.phptherightway.com/)
 * [PHP: The Right Way 繁體中文](http://laravel-taiwan.github.io/php-the-right-way/)
