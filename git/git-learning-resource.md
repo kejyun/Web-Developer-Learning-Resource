@@ -4,14 +4,17 @@
 * [GitHub](https://github.com/)
 * [Bitbucket](https://bitbucket.org/)
 
-# 教學
+## 教學
 * [猴子都能懂的GIT入門 - 入門篇](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
 * [猴子都能懂的GIT入門 - 高級篇](http://backlogtool.com/git-guide/cn/stepup/stepup1_1.html)
 
-# 影片
+## 影片
 * [Try Git - Code School](https://www.codeschool.com/courses/try-git)
 * [Interactive Git Tutorial - Code School](https://www.codeschool.com/courses/git-real)
 * [Mastering GitHub - Code School](https://www.codeschool.com/courses/mastering-github)
+
+## 練習
+* [Code School - Try Git](https://try.github.io/)
 
 ## 文章
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_tw/)
