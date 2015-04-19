@@ -19,6 +19,7 @@
 * [CodePen](http://codepen.io/)
 * [jsFiddle](http://jsfiddle.net/)
 * [Tinkerbin](http://tinkerbin.heroku.com/)
+* [Pastebin](http://pastebin.com/)
 
 
 ### 資料庫
