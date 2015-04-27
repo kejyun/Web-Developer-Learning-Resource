@@ -42,6 +42,7 @@
   * [影片](ui-ux-design/ui-ux-design-video.md)
   * [工具](ui-ux-design/ui-ux-design-tools.md)
   * [文章](ui-ux-design/ui-ux-design-article.md)
+  * [資源](ui-ux-design/ui-ux-design-resource.md)
 * [Responsive Web Design](responsive-web-design/README.md)
   * [工具](responsive-web-design/rwd-tool.md)
 * [字型](font/font-README.md)
