@@ -1,5 +1,9 @@
-# 圖表
+# 函式庫
 
+## 圖表
+
+
+### 免費 + 試用
 * [Chart.js | HTML5 Charts for your website.](http://www.chartjs.org/)
 * [Highcharts - Interactive JavaScript charts for your webpage](http://www.highcharts.com/)
 * [xCharts](http://tenxer.github.io/xcharts/)
@@ -8,19 +12,46 @@
 * [D3.js - Data-Driven Documents](http://d3js.org/)
 * [three.js - Javascript 3D library](http://threejs.org/)
 * [amCharts - JavaScript Charts and Maps](http://www.amcharts.com/)
+* [Google Charts](https://developers.google.com/chart/)
+* [dygraphs](http://dygraphs.com/)
+
+### 付費
+* [FusionCharts](http://www.fusioncharts.com/)
 
 
-# 繪圖
+## 繪圖
 * [p5.js](http://p5js.org/)
 
 
-# 地圖
+## 地圖
 
 * [MarkerClusterer v3](http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/examples/advanced_example.html)
+* [Leaflet - a JavaScript library for mobile-friendly maps](http://leafletjs.com/)
+* [amCharts - JavaScript Charts and Maps](http://www.amcharts.com/)
+
+
+---
+
+# 線上工具
+
+## 圖表
+* [Datawrapper](https://datawrapper.de/)
+* [Tableau Public](https://public.tableau.com/s/)
+* [Raw](http://raw.densitydesign.org/)
+* [infogr.am](https://infogr.am/en)
+* [Timeline JS](http://timeline.knightlab.com/)
+* [Plotly](https://plot.ly/)
+* [ChartBlocks](http://www.chartblocks.com/en/)
+
+
+---
 
 
 # 影片
 * [Data Visualization and D3.js Course - Udacity](https://www.udacity.com/course/ud507)
+
+---
+
 
 # 彙整整理
 * [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/)
