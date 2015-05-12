@@ -49,6 +49,7 @@
    * [中文字形](font/font-chinese.md)
    * [英文字型](font/font-english.md)
    * [其他字形](font/font-others.md)
+   * [特殊字元](font/font-special-character.md)
 * [軟體工具](software/software-README.md)
   * [編輯器](software/software-code-editor.md)
   * [文件](software/software-document.md)

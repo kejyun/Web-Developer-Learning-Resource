@@ -17,6 +17,7 @@
 
 ### 付費
 * [FusionCharts](http://www.fusioncharts.com/)
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 
 
 ## 繪圖
@@ -28,6 +29,9 @@
 * [MarkerClusterer v3](http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/examples/advanced_example.html)
 * [Leaflet - a JavaScript library for mobile-friendly maps](http://leafletjs.com/)
 * [amCharts - JavaScript Charts and Maps](http://www.amcharts.com/)
+
+## 程式繪圖
+* [flowchart.js](http://adrai.github.io/flowchart.js/)
 
 
 ---
@@ -42,7 +46,7 @@
 * [Timeline JS](http://timeline.knightlab.com/)
 * [Plotly](https://plot.ly/)
 * [ChartBlocks](http://www.chartblocks.com/en/)
-
+* [Piktochart](http://piktochart.com/v3/)
 
 ---
 
