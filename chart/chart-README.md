@@ -54,6 +54,9 @@
 # 影片
 * [Data Visualization and D3.js Course - Udacity](https://www.udacity.com/course/ud507)
 
+## 投影片
+* [D3 圖表優化二三事](http://www.slideshare.net/kurotanshi/d3-48180820)
+
 ---
 
 
