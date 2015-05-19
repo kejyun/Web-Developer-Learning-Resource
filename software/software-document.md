@@ -4,9 +4,5 @@
 * [Hackpad](https://hackpad.com/)
 * [Google Drive](https://drive.google.com/)
 
-## 專案管理
-* [asana](https://asana.com/)
-* [trello](https://trello.com/)
-
 ## 心智圖
 * [xmind](http://www.xmind.net/)
