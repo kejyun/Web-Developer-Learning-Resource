@@ -7,7 +7,7 @@
 * [Foundation | The Most Advanced Responsive Front-end Framework from ZURB](http://foundation.zurb.com/)
 * [Pure](http://purecss.io/)
 * [Amaze UI](http://amazeui.org/)
-* [Materialize](http://materializecss.com/)
+* [Material UI](http://material-ui.com/)
 * [Concise](http://concisecss.com/)
 
 ## Mobile Framework
