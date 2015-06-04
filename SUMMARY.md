@@ -23,6 +23,7 @@
   * [PHP](backend-program/php/php-README.md)
     * [學習資源](backend-program/php/php-learning-resource.md)
     * [Framework](backend-program/php/php-framework.md)
+    * [小技巧](backend-program/php/php-trick.md)
   * [Python](backend-program/python/python-README.md)
     * [學習資源](backend-program/python/python-learning-resource.md)
   * [API](backend-program/api/api-README.md)
