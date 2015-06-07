@@ -55,6 +55,7 @@
 * [軟體工具](software/software-README.md)
   * [編輯器](software/software-code-editor.md)
   * [文件](software/software-document.md)
+  * [專案管理](software/software-document.md)
   * [Mockup](software/software-mockup.md)
   * [伺服器](software/software-server-sevice.md)
   * [繪圖](software/software-painting.md)

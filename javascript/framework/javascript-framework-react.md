@@ -13,6 +13,8 @@
 
 ## 文件
 * [Awesome React](https://github.com/enaqx/awesome-react)
+* [React-Native學習指南](https://github.com/ele828/react-native-guide)
+
 
 ## 文章
 * [React Native Tutorial: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
