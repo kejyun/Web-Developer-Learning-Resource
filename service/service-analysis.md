@@ -7,6 +7,7 @@
 ## 監控
 * [Hyperspin - Free Website Monitoring](http://www.hyperspin.com/zhtw/)
 * [Uptime Robot](https://uptimerobot.com/)
+* [UptimeButler](https://uptimebutler.com/)
 
 ## 短網址
 * [goo.gl](http://goo.gl/)
