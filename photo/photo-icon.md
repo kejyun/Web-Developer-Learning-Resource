@@ -16,6 +16,8 @@
 * [Iconfinder - 450,000+ free and premium icons](https://www.iconfinder.com/)
 * [Icons Guide · your guide to stock icons shops](http://www.iconsguide.com/)
 
+## 工具
+* [Online ICO converter](http://www.icoconverter.com/)
 
 ## 其他
 * [emot.es](http://emot.es/)
