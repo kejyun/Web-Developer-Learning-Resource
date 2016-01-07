@@ -7,6 +7,7 @@
 * [Vultr](https://www.vultr.com/)
 * [OpenShift](https://www.openshift.com/)
 * [Parse](https://www.parse.com/)
+* [DigitalOcean](https://www.digitalocean.com/)
 
 
 ## DNS
