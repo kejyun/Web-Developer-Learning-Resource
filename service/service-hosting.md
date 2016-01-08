@@ -2,6 +2,7 @@
 
 ## Hosting
 * [Amazon Web Services (AWS)](http://aws.amazon.com/)
+    * [Amazon Web Services Network Test](https://cloudharmony.com/speedtest-for-aws)
 * [Linode](https://www.linode.com/)
 * [Heroku](https://www.heroku.com/)
 * [Vultr](https://www.vultr.com/)
