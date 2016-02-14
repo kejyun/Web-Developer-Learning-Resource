@@ -3,6 +3,7 @@
 ## Framework
 * [Bootstrap](http://getbootstrap.com/)
 * [Bootstrap snippets](http://bootsnipp.com/)
+* [Material Design Lite](http://www.getmdl.io/)
 * [UIkit](http://getuikit.com/)
 * [Foundation | The Most Advanced Responsive Front-end Framework from ZURB](http://foundation.zurb.com/)
 * [Pure](http://purecss.io/)
