@@ -4,6 +4,7 @@
 
 ### 免費
 * [Sublime Text 3](http://www.sublimetext.com/3)
+    * [大小寫文字樣式轉換](https://github.com/jdc0589/CaseConversion)
 * [Atom](https://atom.io/)
 * [NetBeans](https://netbeans.org/)
 * [Eclipse](https://eclipse.org/downloads/)
