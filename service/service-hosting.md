@@ -23,6 +23,8 @@
 * [StartSSL™ Certificates](https://www.startssl.com/)
 * [SSL For Free](https://www.sslforfree.com/)
 * [Comodo SSL](https://ssl.comodo.com/)
+* [Symantec SSL](https://www.symantec.com/zh/tw/ssl-certificates/)
+* [SSL 憑證 GoDaddy TW](https://tw.godaddy.com/web-security/ssl-certificate)
 
 ## Websites Builder
 * [Weebly](http://www.weebly.com/)
