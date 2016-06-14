@@ -22,6 +22,7 @@
     * [Let's Encrypt Demo](https://www.youtube.com/watch?v=Gas_sSB-5SU)
 * [StartSSL™ Certificates](https://www.startssl.com/)
 * [SSL For Free](https://www.sslforfree.com/)
+* [Comodo SSL](https://ssl.comodo.com/)
 
 ## Websites Builder
 * [Weebly](http://www.weebly.com/)
