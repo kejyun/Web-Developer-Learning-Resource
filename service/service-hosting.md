@@ -9,6 +9,7 @@
 * [OpenShift](https://www.openshift.com/)
 * [Parse](https://www.parse.com/)
 * [DigitalOcean](https://www.digitalocean.com/)
+* [Hostinger](http://www.hostinger.com.hk/)
 
 
 ## DNS
