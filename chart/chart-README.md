@@ -14,6 +14,7 @@
 * [amCharts - JavaScript Charts and Maps](http://www.amcharts.com/)
 * [Google Charts](https://developers.google.com/chart/)
 * [dygraphs](http://dygraphs.com/)
+* [ECharts](http://echarts.baidu.com/)
 
 
 ### 付費
