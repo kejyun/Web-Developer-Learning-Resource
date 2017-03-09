@@ -8,3 +8,5 @@
 * [Lynda](http://www.lynda.com/)
 * [Level Up Tutorials](http://leveluptuts.com/)
 * [慕课网-国内最大的IT技能学习平台](http://www.imooc.com/)
+* [Skillshare](https://www.skillshare.com/)
+* [Pluralsight](https://www.pluralsight.com/)
