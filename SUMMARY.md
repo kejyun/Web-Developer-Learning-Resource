@@ -63,6 +63,7 @@
   * [網路](software/software-network.md)
   * [管理](software/software-management.md)
   * [條碼](software/software-barcode-qrcode.md)
+  * [開發除錯](software/software-dev-debug.md)
 * [服務](service/service-README.md)
   * [主機](service/service-hosting.md)
   * [Email](service/service-email.md)
