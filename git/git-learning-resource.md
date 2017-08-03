@@ -12,6 +12,7 @@
 * [Try Git - Code School](https://www.codeschool.com/courses/try-git)
 * [Interactive Git Tutorial - Code School](https://www.codeschool.com/courses/git-real)
 * [Mastering GitHub - Code School](https://www.codeschool.com/courses/mastering-github)
+* [Visual Studio Toolbox: Git Fundamentals](https://blogs.msdn.microsoft.com/robertgreen/2017/08/01/visual-studio-toolbox-git-fundamentals/)
 
 ## 練習
 * [Code School - Try Git](https://try.github.io/)
