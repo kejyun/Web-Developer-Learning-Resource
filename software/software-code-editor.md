@@ -23,6 +23,7 @@
 * [Pastebin](http://pastebin.com/)
 
 
+
 ### 資料庫
 * [SQL Fiddle](http://sqlfiddle.com/)
 
@@ -30,6 +31,8 @@
 * [codepad - PHP](http://codepad.viper-7.com/)
 * [PHP Fiddle](http://phpfiddle.org/)
 * [RUBY Fiddle](http://rubyfiddle.com/)
+* [repl.it - Online REPL, Compiler & IDE](https://repl.it/)
+* [代码在线编辑,代码在线运行,在线写代码工具](http://www.dooccn.com/)
 
 ### 文件
 * [Hackpad](https://hackpad.com/)

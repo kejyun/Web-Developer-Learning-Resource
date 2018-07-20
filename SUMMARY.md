@@ -76,6 +76,7 @@
 * [Linux](linux/linux-README.md)
   * [文件](linux/linux-document-README.md)
   * [排程工作 (CronJob)](linux/linux-cronjob-README.md)
+* [監控](monitor/monitor-README.md)
 * [圖表分析](chart/chart-README.md)
 * [文件管理](document-management/document-management-README.md)
 * [正規表示式](regular-expressions/regular-expressions-README.md)
