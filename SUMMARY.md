@@ -55,6 +55,7 @@
    * [特殊字元](font/font-special-character.md)
 * [軟體工具](software/software-README.md)
   * [編輯器](software/software-code-editor.md)
+      * [Sublime](software/software-code-editor/sublime.md)
   * [文件](software/software-document.md)
   * [專案管理](software/software-project-management.md)
   * [Mockup](software/software-mockup.md)
