@@ -47,3 +47,4 @@
 
 ## 參考資料
 * [A Concise Guide to Remote Debugging on iOS, Android, and Windows Phone - Telerik Developer Network](https://developer.telerik.com/featured/a-concise-guide-to-remote-debugging-on-ios-android-and-windows-phone/)
+* [利用 Chrome 對 iOS 裝置進行除錯(iPhone、iPad)的絕佳方案＠WFU BLOG](https://www.wfublog.com/2017/12/chrome-ios-remote-debug-webkit-adapter.html)
