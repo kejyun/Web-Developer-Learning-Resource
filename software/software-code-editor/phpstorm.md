@@ -53,6 +53,8 @@
 
 ![設定部署選項](./images/phpstorm-tools-deployment-options-setting.png)
 
+設定完成後，就可以在專案中，儲存檔案時自動將檔案上傳到遠端伺服器了！
+
 ## 參考資料
 * [Sync changes and automatic upload to a deployment server in PhpStorm - PhpStorm - Confluence](https://confluence.jetbrains.com/display/PhpStorm/Sync+changes+and+automatic+upload+to+a+deployment+server+in+PhpStorm)
 * [PhpStorm 2016.2 Help :: Options](https://www.jetbrains.com/help/phpstorm/2016.2/options.html)
