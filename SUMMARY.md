@@ -85,6 +85,7 @@
 * [監控](monitor/monitor-README.md)
 * [圖表分析](chart/chart-README.md)
 * [文件管理](document-management/document-management-README.md)
+* [樣板](template/template-README.md)
 * [正規表示式](regular-expressions/regular-expressions-README.md)
 * [加解密](encryption-decryption/encryption-decryption-README.md)
 * [學習資源](learning-resource/learning-resource-README.md)
