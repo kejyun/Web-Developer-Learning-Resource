@@ -2,7 +2,11 @@
 
 ## 一般專案管理
 * [Trello](https://trello.com/)
+* [Asana](https://asana.com/)
+* [Miro | Free Online Collaborative Whiteboard Platform](https://miro.com/)
 * [Redmine](http://www.redmine.org/)
+
+## 看板資料管理
 
 ## 敏捷開發
 * [Project Management Software | Mingle](http://www.thoughtworks.com/mingle/)
