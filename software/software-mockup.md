@@ -4,6 +4,8 @@
     * [Community – Figma](https://www.figma.com/community)
     * [Figma Templates, UI kits and Freebies - Free Figma resources](https://www.figmacrush.com/)
     * [免费的 Figma 资源、模板 | Figma 中文网（非官方）](https://figmacn.com/resource/figma-crush)
+    * [Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome. - YouTube](https://www.youtube.com/watch?v=3q3FV65ZrUs)
+    * [Figma - YouTube](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA/videos)
 * [Online Diagram and Flowchart Software | Cacoo](https://cacoo.com/)
 * [Moqups](https://moqups.com/)
 * [Sketch - The digital design toolkit](https://www.sketch.com/)
