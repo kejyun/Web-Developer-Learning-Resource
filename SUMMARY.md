@@ -71,6 +71,8 @@
     * [管理](software/software-management.md)
     * [條碼](software/software-barcode-qrcode.md)
     * [開發除錯](software/software-dev-debug.md)
+    * [Log](software/software-log.md)
+    * [監控 Monitor](software/software-monitor.md)
 * [服務](service/service-README.md)
     * [主機](service/service-hosting.md)
     * [Email](service/service-email.md)
