@@ -61,6 +61,7 @@
         * [Sublime](software/software-code-editor/sublime.md)
         * [Brackets](software/software-code-editor/brackets.md)
         * [phpstorm](software/software-code-editor/phpstorm.md)
+        * [vscode](software/software-code-editor/vscode.md)
     * [文件](software/software-document.md)
     * [專案管理](software/software-project-management.md)
     * [Mockup](software/software-mockup.md)
