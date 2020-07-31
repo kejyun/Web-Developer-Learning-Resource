@@ -32,6 +32,7 @@
 * [資料庫](database/database-README.md)
     * [MySQL](database/database-mysql.md)
     * [MongoDB](database/database-mongodb.md)
+    * [Redis](database/database-redis.md)
     * [學習資源](database/database-learning-resource.md)
 * [Node.js](NodeJS/NodeJS-README.md)
     * [學習資源](NodeJS/NodeJS-learning-resource.md)
