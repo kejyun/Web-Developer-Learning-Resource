@@ -29,6 +29,8 @@
     * [Python](backend-program/python/python-README.md)
         * [學習資源](backend-program/python/python-learning-resource.md)
     * [API](backend-program/api/api-README.md)
+    * [除錯](backend-program/debug/debug-README.md)
+        * [cors](backend-program/debug/debug-cors.md)
 * [資料庫](database/database-README.md)
     * [MySQL](database/database-mysql.md)
     * [MongoDB](database/database-mongodb.md)
